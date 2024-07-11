@@ -25,7 +25,7 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />&nbsp
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Koalas-FF9E0F?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp;
 
