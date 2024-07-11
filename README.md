@@ -58,7 +58,7 @@
 <div align="center">
   <!-- 이메일 -->
   <a href="mailto:daniellg413@naver.com">
-    <img src="https://img.shields.io/badge/daniellg413@naver.com-D14836?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/daniellg413@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp;
   </a>
   
   <!-- LinkedIn 프로필 -->
