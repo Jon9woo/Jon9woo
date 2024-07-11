@@ -52,6 +52,23 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white" />&nbsp
 </div>
 
+
+
+<h3 align="center">📫 Contact 📫</h3>
+<div align="center">
+  <!-- 이메일 -->
+  <a href="mailto:daniellg413@naver.com">
+    <img src="https://img.shields.io/badge/daniellg413@naver.com-D14836?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp;
+  </a>
+  
+  <!-- LinkedIn 프로필 -->
+  <a href="https://www.linkedin.com/in/jongwoo-lee-67b806228/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />&nbsp;
+  </a>
+</div>
+
+
+
 <!--
 **Jon9woo/Jon9woo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
