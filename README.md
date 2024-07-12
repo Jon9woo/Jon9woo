@@ -46,8 +46,9 @@
 
 <br>
 
-  <img src="https://img.shields.io/badge/PyCaret-0077B6.svg?style=for-the-badge&logo=PyCaret&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/MLflow-0194E2.svg?style=for-the-badge&logo=MLflow&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/PyCaret-0077B6.svg?style=for-the-badge&logo=PyCaret&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/MLflow-0194E2.svg?style=for-the-badge&logo=MLflow&logoColor=white" />&nbsp;
+  
 </div>
 
 <br>
