@@ -42,6 +42,8 @@
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" />&nbsp;
 
+</div>
+
 <br>
 
   <img src="https://img.shields.io/badge/PyCaret-0077B6.svg?style=for-the-badge&logo=PyCaret&logoColor=white" />&nbsp
