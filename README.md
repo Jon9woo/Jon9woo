@@ -47,6 +47,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/MLflow-0194E2.svg?style=for-the-badge&logo=MLflow&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/scikit_multiflow-007ACC?style=for-the-badge&logo=scikit-multiflow&logoColor=white" />&nbsp;
   
   
 </div>
