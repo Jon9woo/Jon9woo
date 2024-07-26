@@ -21,7 +21,10 @@
 <br>
 <div align="center">
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/sqlite3-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/PyCaret-0077B6.svg?style=for-the-badge&logo=PyCaret&logoColor=white" />&nbsp;
+<br>
+  
 <img src="https://img.shields.io/badge/PySpark-EE4C2C?style=for-the-badge&logo=apachespark&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Koalas-FF9E0F?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp;
 
